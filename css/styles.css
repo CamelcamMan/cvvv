@@ -1,0 +1,17 @@
+body {
+    background-color:	yellowgreen;
+}
+h1{
+    color: #7966bf;
+}
+h3{
+    color: #8b66bf;
+}
+hr {
+    background-color:	yellowgreen;
+    border-style: none;
+    border-top-style:dotted ;
+    border-color: greey;
+    border-width: 10px;
+    width: 5%;
+}
